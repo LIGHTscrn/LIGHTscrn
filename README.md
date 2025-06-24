@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying B-tech <br>👯 I’m looking to collaborate in many ways<br>🤝 I’m looking for help with anything that can improve us<br>🌱 I’m currently learning Machine Learning <br>⚡ Fun fact , My instincts are sharp and i believe in adaptation 
+🔭 I’m currently studying B-tech <br>👯 I’m looking to collaborate in many ways<br>🤝I’m currently learning Machine Learning <br>⚡ Fun fact , My instincts are sharp and i believe in adaptation 
 
 ![Description](https://media.tenor.com/S8CEO_VpVxIAAAAM/light-death-note.gif)
 
